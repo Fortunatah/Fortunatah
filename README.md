@@ -13,6 +13,7 @@ I specialize in optimizing hardware validation and production pipelines through 
 ### 📜 Certifications & Continuous Learning
 * **Data Engineering on AWS - Foundations** (Amazon Web Services)
 * **AWS Cloud Practitioner Essentials** (Amazon Web Services)
+* **AWS Cloud No-code Machine Learning** (Amazon Web Services)
 * **Complete SQL Mastery** (Code With Mosh)
 * **Linear Algebra for Machine Learning and Data Science** (DeepLearning.AI)
 * **Data Science Math Skills** (Duke University)
@@ -24,8 +25,9 @@ I specialize in optimizing hardware validation and production pipelines through 
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | Python, SQL (MySQL, PostgreSQL), Java, C, JavaScript, Bash, Perl |
+| **AI & Machine Learning** | Amazon SageMaker(No-Code ML), AutoML, Predictive Modeling, LLM Orchestration, Generative AI |
 | **Data & Databases** | ETL Pipelines, Pandas, Matplotlib, Schema Design, Predictive Modeling |
-| **Cloud & DevOps** | AWS Infrastructure, Docker, Kubernetes, CI/CD, Terraform, Ansible |
+| **Cloud & DevOps** | AWS (SageMaker, S3, IAM), Docker, Kubernetes, CI/CD, Terraform, Ansible|
 | **Systems** | Linux (Kernel), WinPE, VMware/VirtualBox, Network Protocols |
 
 ---
