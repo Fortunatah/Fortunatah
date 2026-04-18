@@ -11,6 +11,7 @@ I specialize in optimizing hardware validation and production pipelines through 
 ---
 
 ### 📜 Certifications & Continuous Learning
+* **Associate Data Engineer in Sql** (Datacamp)
 * **Data Engineering on AWS - Foundations** (Amazon Web Services)
 * **AWS Cloud Practitioner Essentials** (Amazon Web Services)
 * **AWS Cloud No-code Machine Learning** (Amazon Web Services)
